@@ -75,7 +75,7 @@ ol {
 .content__list-container {
   display: grid;
   height: 298px;
-  overflow-y: scroll;
+  overflow-y: auto;
   overflow-x: hidden;
   gap: 30px;
   position: relative;
